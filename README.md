@@ -1,3 +1,3 @@
 # pipelineCPU
 
-Implements a piplend CPU design with pipeline regster and data forwarding.
+Implements a piplend CPU design with pipeline registers and data forwarding.
